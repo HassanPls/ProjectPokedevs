@@ -47,7 +47,7 @@ As imagens dos Pokedevs foram geradas utilizando Inteligência Artificial, uma v
 
 ### Imagem do Projeto
 
-![Pokedevs Preview](link-da-imagem)
+![Pokedevs Preview](https://raw.githubusercontent.com/HassanPls/ProjectPokedevs/refs/heads/main/Project.gif?token=GHSAT0AAAAAACYVDFFS5PV3EFCVE6EO3GGGZYPEJQA)
 
 ---
 
