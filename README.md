@@ -45,10 +45,6 @@ As imagens dos Pokedevs foram geradas utilizando Inteligência Artificial, uma v
 - **JavaScript**:
   - `index.js`: Script responsável por adicionar interatividade aos elementos, como alternar entre os cartões dos Pokedevs ao clicar nos ícones laterais.
 
-### Imagem do Projeto
-
-![Pokedevs Preview](https://raw.githubusercontent.com/HassanPls/ProjectPokedevs/refs/heads/main/Project.gif?token=GHSAT0AAAAAACYVDFFT3AVKF2AD72G3A6VIZYPE37Q)
-
 ---
 
 ### Aprendizados
